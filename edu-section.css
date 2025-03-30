@@ -1,0 +1,57 @@
+body {
+    background-color: rgb(2, 2, 52);
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+.lg{
+      height: 40px;
+      width: 50px;
+      margin-left: 100px;
+      font-weight:900;
+     
+  }
+  .navbar-brand {
+      font-size: 24px;
+      font-weight: 500;
+  }
+  .header{
+      text-align: center;
+      
+    font-weight: 500;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin: 20px;
+  }
+  .header p{
+      color: white;
+  }
+  .header h1{
+      color:lightskyblue;
+  }
+  .header h1 > span{
+      color: gold;
+  }
+  .cards{
+      width: 35%;
+      height: 60vh;
+      background-color:rgb(0, 0, 0);
+      border-radius: 10px;
+      margin: 30px;
+      box-shadow: 4px 4px 15px rgb(0, 0, 0);
+      display: inline-block;
+  }
+  
+  .image img{
+      width: 350px;
+      height: 150px;
+      margin-left: 55px;
+      margin-top: 10px;
+      
+  }
+ .title{
+   text-align: center;
+   margin: 30px;
+  
+ }
+ .des{
+ margin-left: 30px;
+ }
